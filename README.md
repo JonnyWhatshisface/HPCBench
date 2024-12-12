@@ -30,4 +30,4 @@ more efficient use of the CPU's.
 * NFSTest   -
 * PCIeLat   -
 * rndmath   -
-* memtest   -
+* memtest   - [WIP] Used for performing various numa-aligned memory allocations and checking page locality
